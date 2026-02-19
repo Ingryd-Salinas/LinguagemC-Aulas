@@ -6,7 +6,7 @@
 
 /**
  *
- * @author 2830482421025
+ * @author Ingryd Salinas
  */
 public class Calculadora {
     
